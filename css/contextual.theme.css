@@ -27,7 +27,7 @@
 .contextual .trigger {
   background-attachment: scroll;
   background-color: #fff;
-  background-image: url("../../misc/edit.png");
+  background-image: url(../../../misc/edit.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 16px 16px;

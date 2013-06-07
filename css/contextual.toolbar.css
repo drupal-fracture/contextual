@@ -5,11 +5,11 @@
 
 /* Tab icon. */
 .icon-edit:before {
-  background-image: url("../../misc/edit.png");
+  background-image: url(../../../misc/edit.png);
 }
 .icon-edit:active:before,
 .active.icon-edit:before {
-  background-image: url("../../misc/edit-active.png");
+  background-image: url(../../../misc/edit-active.png);
 }
 
 /* Tab appearance. */
